@@ -21,7 +21,7 @@ intents.guilds = True
 intents.presences = True
 client = discord.Client(intents=intents)
 
-token = 'MTAzMDUyODM0MjkxNjYxMjEwNg.GjlU-e.Fcp80SdPTYIUWHtsjwhtSbDhw7pTECUZdpdktM'
+token = 'TOKEN'
 
 client = commands.Bot(command_prefix='?', intents=intents)
 
